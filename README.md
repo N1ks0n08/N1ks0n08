@@ -3,6 +3,7 @@
 <!--
 **N1ks0n08/N1ks0n08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 # Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
@@ -21,3 +22,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![RxJava](https://img.shields.io/badge/RxJava-FF4400?style=flat-square&logo=reactivex&logoColor=white)
 
+# Favorite project(s):
+
+- [Automatic Differentiation 2024](https://github.com/Allen-ISD-Computer-Science/REPO_AutomaticDifferentiation_2024)
